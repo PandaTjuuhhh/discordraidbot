@@ -7,7 +7,7 @@ This bot was only made to learn Discord.Js and to test Discord's capabilities.
 
 If you want you can try it out, but please only use it in your own servers.
 
-#Commands:
+Commands:
 
 **/pmeveryone**
 Sends everyone in the server a private message
